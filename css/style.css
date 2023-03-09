@@ -1,0 +1,19 @@
+.clMenu{
+  
+}
+
+a{
+    color:LightSeaGreen; 
+    margin: 10px 10px 10px 10px; 
+}
+
+a:hover{
+    color:DarkGreen;
+}
+/*
+.clSecond {
+    visibility:visible;
+    width:300px;
+    height:40px;
+}
+*/
